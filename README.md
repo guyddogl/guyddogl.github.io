@@ -5,9 +5,9 @@
 [![CV](https://img.shields.io/badge/CV-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://www.guyddogl.com/cv)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=guyddogl&show_icons=true&theme=dracula&title_color=79dafa)](https://github.com/guyddogl/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=guyddogl&show_icons=true&theme=dracula&title_color=79dafa)](https://github.com/guyddogl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyddogl&layout=compact&theme=dracula&title_color=79dafa)](https://github.com/guyddogl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guyddogl&layout=compact&theme=dracula&title_color=79dafa)](https://github.com/guyddogl)
 
 <hr/>
 
