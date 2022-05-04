@@ -1,9 +1,10 @@
 ### Olá, eu sou o Guyddo 👨‍💻
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guyddogl)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guyddogl@gmail.com)
-[![CV](https://img.shields.io/badge/CV-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://www.guyddogl.com/cv)
-
+<div style="display: inline_block">
+<a href="https://www.linkedin.com/in/guyddogl" target="_Blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="mailto:guyddogl@gmail.com" target="_Blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.guyddogl.com/cv" target="_Blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/CV-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white" /></a>
+<br/><br/>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=guyddogl&show_icons=true&theme=dracula&title_color=79dafa)](https://github.com/guyddogl)
 
